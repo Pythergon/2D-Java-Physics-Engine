@@ -1,1 +1,2 @@
 # 2D-Java-Physics-Engine
+My dad thinks you need a java library for everything so i decided to throw that advice out the window and finally use the 100+ hours of mathematical textbook reading. Praise the lord for savers in which I found my AP Physics C Textbook and the textbook my mom got me called Diffferental Equasions and Linear Algebra. Also this is one of my first Java projects as well so good luck to me!
